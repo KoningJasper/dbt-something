@@ -18,8 +18,3 @@ clean-targets:
 models:
   dbt_something:
       materialized: table
-
-sources:
-  - name: jaffle_shop
-    tables:
-      - name: customers
