@@ -1,6 +1,6 @@
 version: 2
 
 sources:
-  - name: jaffle_shop
+  - name: default
     tables:
       - name: customers
