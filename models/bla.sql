@@ -1,1 +1,1 @@
-select * from {{ source('default', 'customers') }}
+select * from {{ source('prod', 'workspaces') }} 
