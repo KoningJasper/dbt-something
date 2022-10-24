@@ -1,6 +1,6 @@
 version: 2
 
 sources:
-  - name: default
+  - name: prod
     tables:
-      - name: customers
+      - name: workspaces
